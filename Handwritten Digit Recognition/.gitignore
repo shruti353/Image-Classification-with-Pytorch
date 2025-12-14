@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (auto-downloaded)
+data/
+
+# OS
+.DS_Store
+Thumbs.db
