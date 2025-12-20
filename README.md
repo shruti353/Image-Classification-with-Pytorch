@@ -1,1 +1,1 @@
-# Image-Classification-with-TensorFlow
+# Image-Classification-with-Pytorch
