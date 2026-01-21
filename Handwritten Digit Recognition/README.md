@@ -1,21 +1,21 @@
 # MNIST Digit Classification with CNN
 
-## 📊 Results
+##  Results
 - **Accuracy**: 98.65% on test set
 - **Model**: CNN with 2 convolutional layers
 - **Framework**: PyTorch
 
-## 🚀 Quick Start
+##  Quick Start
 Run the Jupyter notebook `main.ipynb` to see:
 - Data loading and preprocessing
 - Model training
 - Evaluation and visualization
 
-## 📁 Files
+##  Files
 - `main.ipynb` - Complete implementation
 - `requirements.txt` - Dependencies
 
-## 🧠 Model Architecture
+##  Model Architecture
 Simple CNN with:
 - Conv1: 10 filters, 5x5 kernel
 - Conv2: 20 filters, 5x5 kernel
@@ -23,7 +23,7 @@ Simple CNN with:
 - FC1: 320 → 50 neurons
 - FC2: 50 → 10 neurons (output)
 
-## 📈 Training
+##  Training
 - Epochs: 10
 - Batch size: 100
 - Optimizer: Adam (lr=0.001)
