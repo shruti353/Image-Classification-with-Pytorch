@@ -12,14 +12,13 @@ Both projects demonstrate the complete machine learning workflow, including data
 ## Project Structure
 
 Image-Classification-with-Pytorch/
-│
 ├── Handwritten Digit Recognition/
 │ └── handwritten_digit_classification.ipynb
 │
 ├── MNIST fashion classification/
 │ └── fashion_mnist_classification_nn_pytorch.ipynb
 │
-├── README.md
+└── README.md
 
 
 ---
